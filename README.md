@@ -15,6 +15,11 @@
     - HTML/CSS
 -   **Tools**: Git, Docker, Docker-Compose, Redis, VS Code
 
+### Currently learn 📚
+- Go
+- Microservices architecture
+- Distributed Systems
+
 ## 📫 How to Reach Me
 -   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
 -   **Email**: EnderEzhik@yandex.ru
