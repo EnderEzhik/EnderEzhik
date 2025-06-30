@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi everyone 👋
+### I am Andrey Chernov, backend .net developer, 3rd-Year College Student!
 
-<!--
-**EnderEzhik/EnderEzhik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills & Technologies
+-   **Programming Languages**:
+    - C#
+        - ASP.NET Core
+        - EntityFramework Core
+        - a little bit of WPF
+    - Python
+        - FastApi
+        - Flask
+        - Celery
+    - JavaScript
+    - HTML/CSS
+-   **Tools**: Git, Docker, Docker-Compose, Redis, VS Code
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+-   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
+-   **Email**: EnderEzhik@yandex.ru
