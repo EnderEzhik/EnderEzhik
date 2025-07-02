@@ -16,6 +16,7 @@
 -   **Tools**: Git, Docker, Docker-Compose, Redis, VS Code
 
 ### Currently learn 📚
+- Java
 - Go
 - Microservices architecture
 - Distributed Systems
