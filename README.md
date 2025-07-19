@@ -23,4 +23,4 @@
 
 ## 📫 How to Reach Me
 -   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
--   **Email**: EnderEzhik@yandex.ru
+-   **Email**: enderezhik@gmail.com
