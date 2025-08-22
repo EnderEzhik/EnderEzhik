@@ -4,6 +4,7 @@
 ## 🔧 Skills & Technologies
 -   **Programming Languages**:
     - C#
+        - .Net Core
         - ASP.NET Core
         - EntityFramework Core
         - a little bit of WPF
@@ -13,7 +14,8 @@
         - Celery
     - JavaScript
     - HTML/CSS
--   **Tools**: Git, Docker, Docker-Compose, Redis, VS Code
+-   **DataBases**: Mysql, Postgresql, SQLite
+-   **Tools**: Git, Docker, Docker-Compose, Redis
 
 ### Currently learn 📚
 - Java
