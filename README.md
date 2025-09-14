@@ -14,14 +14,12 @@
         - Celery
     - JavaScript
     - HTML/CSS
--   **DataBases**: Mysql, Postgresql, SQLite
+-   **DataBases**: Postgresql, Mysql, SQLite
 -   **Tools**: Git, Docker, Docker-Compose, Redis
 
 ### Currently learn 📚
-- Java
 - Go
 - Microservices architecture
-- Distributed Systems
 
 ## 📫 How to Reach Me
 -   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
