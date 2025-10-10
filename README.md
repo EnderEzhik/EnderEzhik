@@ -18,8 +18,9 @@
 -   **Tools**: Git, Docker, Docker-Compose, Redis
 
 ### Currently learn 📚
-- Go
 - Microservices architecture
+- MS SQL Server
+- Go
 
 ## 📫 How to Reach Me
 -   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
