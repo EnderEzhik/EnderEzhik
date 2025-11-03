@@ -12,6 +12,7 @@
         - FastApi
         - Flask
         - Celery
+        - Sqlalchemy
     - JavaScript
     - HTML/CSS
 -   **DataBases**: Postgresql, Mysql, SQLite
