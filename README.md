@@ -1,28 +1,17 @@
-# Hi everyone 👋
 ### I am Andrey Chernov, backend .net developer, 3rd-Year College Student!
 
 ## 🔧 Skills & Technologies
 -   **Programming Languages**:
     - C#
-        - .Net Core
+        - .NET Core
         - ASP.NET Core
         - EntityFramework Core
-        - a little bit of WPF
+        - WPF
     - Python
         - FastApi
-        - Flask
+        - Sqlmodel
         - Celery
-        - Sqlalchemy
-    - JavaScript
+    - JavaScript/TypeScript
     - HTML/CSS
 -   **DataBases**: Postgresql, Mysql, SQLite
--   **Tools**: Git, Docker, Docker-Compose, Redis
-
-### Currently learn 📚
-- Microservices architecture
-- MS SQL Server
-- Go
-
-## 📫 How to Reach Me
--   **Telegram**: [@EnderEzh](https://t.me/EnderEzh)
--   **Email**: enderezhik@gmail.com
+-   **Other**: Git, Docker, Docker-Compose, Redis, Nginx
