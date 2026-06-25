@@ -13,5 +13,5 @@
         - Celery
     - JavaScript/TypeScript
     - HTML/CSS
--   **DataBases**: Postgresql, Mysql, SQLite
+-   **Databases**: Postgresql, Mysql, SQLite
 -   **Other**: Git, Docker, Docker-Compose, Redis, Nginx
